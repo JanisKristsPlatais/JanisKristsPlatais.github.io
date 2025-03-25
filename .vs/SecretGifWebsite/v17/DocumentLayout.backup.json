@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -31,32 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\client\\index.html",
-              "RelativeDocumentMoniker": "client\\index.html",
-              "ToolTip": "C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\client\\index.html",
-              "RelativeToolTip": "client\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-25T23:37:00.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "deploy.yml",
               "DocumentMoniker": "C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\.github\\workflows\\deploy.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
               "ToolTip": "C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\.github\\workflows\\deploy.yml",
               "RelativeToolTip": ".github\\workflows\\deploy.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-03-25T23:26:37.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NewFile",
               "DocumentMoniker": "C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\NewFile",
               "RelativeDocumentMoniker": "NewFile",
@@ -64,11 +47,12 @@
               "RelativeToolTip": "NewFile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-25T23:25:10.22Z"
+              "WhenOpened": "2025-03-25T23:25:10.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "vite.config.ts",
               "DocumentMoniker": "C:\\Users\\jou\\Documents\\___c#_programming\\SecretGifWebsite\\vite.config.ts",
               "RelativeDocumentMoniker": "vite.config.ts",
@@ -76,7 +60,8 @@
               "RelativeToolTip": "vite.config.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-25T23:23:13.543Z"
+              "WhenOpened": "2025-03-25T23:23:13.543Z",
+              "EditorCaption": ""
             }
           ]
         }
